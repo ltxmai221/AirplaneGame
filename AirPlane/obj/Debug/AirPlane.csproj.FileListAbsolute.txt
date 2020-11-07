@@ -1,0 +1,10 @@
+D:\My Projects\AirPlane\AirPlane\bin\Debug\AirPlane.exe.config
+D:\My Projects\AirPlane\AirPlane\bin\Debug\AirPlane.exe
+D:\My Projects\AirPlane\AirPlane\bin\Debug\AirPlane.pdb
+D:\My Projects\AirPlane\AirPlane\obj\Debug\AirPlane.csprojAssemblyReference.cache
+D:\My Projects\AirPlane\AirPlane\obj\Debug\CarRacing.Form1.resources
+D:\My Projects\AirPlane\AirPlane\obj\Debug\AirPlane.Properties.Resources.resources
+D:\My Projects\AirPlane\AirPlane\obj\Debug\AirPlane.csproj.GenerateResource.cache
+D:\My Projects\AirPlane\AirPlane\obj\Debug\AirPlane.csproj.CoreCompileInputs.cache
+D:\My Projects\AirPlane\AirPlane\obj\Debug\AirPlane.exe
+D:\My Projects\AirPlane\AirPlane\obj\Debug\AirPlane.pdb
